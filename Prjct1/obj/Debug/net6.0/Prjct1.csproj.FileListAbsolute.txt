@@ -1,0 +1,15 @@
+C:\Users\79095\Desktop\asd\Prjct1\bin\Debug\net6.0\Prjct1.exe
+C:\Users\79095\Desktop\asd\Prjct1\bin\Debug\net6.0\Prjct1.deps.json
+C:\Users\79095\Desktop\asd\Prjct1\bin\Debug\net6.0\Prjct1.runtimeconfig.json
+C:\Users\79095\Desktop\asd\Prjct1\bin\Debug\net6.0\Prjct1.dll
+C:\Users\79095\Desktop\asd\Prjct1\bin\Debug\net6.0\Prjct1.pdb
+C:\Users\79095\Desktop\asd\Prjct1\obj\Debug\net6.0\Prjct1.csproj.AssemblyReference.cache
+C:\Users\79095\Desktop\asd\Prjct1\obj\Debug\net6.0\Prjct1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79095\Desktop\asd\Prjct1\obj\Debug\net6.0\Prjct1.AssemblyInfoInputs.cache
+C:\Users\79095\Desktop\asd\Prjct1\obj\Debug\net6.0\Prjct1.AssemblyInfo.cs
+C:\Users\79095\Desktop\asd\Prjct1\obj\Debug\net6.0\Prjct1.csproj.CoreCompileInputs.cache
+C:\Users\79095\Desktop\asd\Prjct1\obj\Debug\net6.0\Prjct1.dll
+C:\Users\79095\Desktop\asd\Prjct1\obj\Debug\net6.0\refint\Prjct1.dll
+C:\Users\79095\Desktop\asd\Prjct1\obj\Debug\net6.0\Prjct1.pdb
+C:\Users\79095\Desktop\asd\Prjct1\obj\Debug\net6.0\Prjct1.genruntimeconfig.cache
+C:\Users\79095\Desktop\asd\Prjct1\obj\Debug\net6.0\ref\Prjct1.dll
